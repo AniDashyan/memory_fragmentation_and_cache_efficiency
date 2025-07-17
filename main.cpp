@@ -3,7 +3,7 @@
 #include <random>
 #include <chrono>
 #include <algorithm>
-#include <cstring>
+#include <string>
 
 // memory tracker to monitor allocations
 struct MemoryTracker {
